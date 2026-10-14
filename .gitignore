@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+keys.py
+*.log
+*.db
+*.sqlite
+__pycache__/
+venv/
+.vscode/
