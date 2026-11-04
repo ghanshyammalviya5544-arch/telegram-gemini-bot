@@ -16,8 +16,6 @@ A Telegram bot that answers messages with Google Gemini. It sends easy questions
        python bot.py
 
 ## Notes
-
-- Never commit your .env file. It is listed in .gitignore.
 - Only one copy of the bot can run per Telegram token.
 
 ## License
